@@ -1,0 +1,4 @@
+1. Remember me box: Use local storage and session storage to save token
+    a. When first visiting the website check for a token before prompting login
+2. Download profile image as base64 so it can be saved in local storage
+3. If not token in storage, have Video Call App href redirect to login page

@@ -1,4 +1,4 @@
-#ChatApp-Frontend
+**ChatApp-Frontend**
 
 Tools: JavaScript, React, Bootstrap, AWS S3 API, Agora API, Docker, Git
 
